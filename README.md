@@ -1,47 +1,34 @@
 # 📈 Sales Prediction using Machine Learning
 
-## 📌 Project Overview
-This project predicts sales based on advertising expenditure using Machine Learning and Linear Regression.
+This project predicts sales using Machine Learning and Linear Regression.
 
-## 📊 Project Features
-- Data preprocessing and cleaning
-- Exploratory Data Analysis (EDA)
+## 📊 Features
+- Data preprocessing
 - Train-test split
 - Linear Regression model
+- Accuracy evaluation
 - Sales prediction
-- Model evaluation using R² Score
-- Data visualization
+- Data visualization graphs
 
-## 📂 Dataset
-Advertising Dataset containing:
-- TV Advertising
-- Radio Advertising
-- Newspaper Advertising
-- Sales
-
-## 📈 Data Visualizations
-- Actual vs Predicted Sales
-- Error Distribution
-- Feature Coefficients
+## 📈 Visualizations Added
+- Actual vs Predicted Graph
+- Error Distribution Graph
+- Feature Importance Graph
 - Correlation Heatmap
 - Pairplot
 
 ## 🤖 Machine Learning Algorithm
 Linear Regression
 
-## 🛠 Technologies Used
+## 🛠 Tools Used
 - Python
 - Pandas
-- NumPy
 - Scikit-learn
 - Matplotlib
 - Seaborn
-- Jupyter Notebook
 
-## 🎯 Project Outcome
-Developed a Machine Learning model to predict sales using advertising expenditure across different marketing channels.
+## 📂 Dataset
+Advertising Dataset
 
-## 🏢 Internship
-**CodeAlpha — Data Science Internship**
-
-**Task 4: Sales Prediction using Python**
+## 🚀 Project Outcome
+Successfully predicted sales using advertising dataset and Machine Learning techniques.
